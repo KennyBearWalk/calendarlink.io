@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.megahub.chief.mtrader.activity",
+    "sha256_cert_fingerprints":
+    ["1E:70:8A:1A:1F:25:DC:D0:9A:DC:56:84:B4:D0:19:98:B0:71:2C:78:7D:50:B3:8E:34:4C:CE:EB:9A:B9:5C:96"]
+  }
+}]
